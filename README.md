@@ -4,7 +4,7 @@ A contrived set of packages created solely to facilitate discussion and experime
 
 ## Running the tests
 
-If using VSCode the tests should cshow up in the test panel on the left.
+If using VSCode the tests should show up in the test panel on the left.
 
 Otherwise you can also run the tests by doing:
 
